@@ -1,0 +1,8 @@
+" 1. vim ~/.vimrc
+" 2. insert the below lines 
+" 3. run gg=G (to replace tabs with spaces)
+
+set tabstop=4
+set shiftwidth=4
+set softtabstop=4
+set expandtab
